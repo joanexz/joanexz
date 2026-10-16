@@ -2,7 +2,7 @@
 
 <img src="./banner%20cat.jpg" alt="Banner do perfil" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F7A41D&center=true&vCenter=true&width=640&lines=L%C3%ADder+de+Processos+e+Inova%C3%A7%C3%A3o+Operacional;Full-Stack+Dev+%7C+Intelig%C3%AAncia+Artificial;Fundador+da+NAV;Bicampe%C3%A3o+da+Maratona+SBC+no+campus;Estudante+na+UFC+Crate%C3%BAs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F7A41D&center=true&vCenter=true&width=640&lines=L%C3%ADder+de+Processos+e+Inova%C3%A7%C3%A3o+Operacional;Full-Stack+Dev+%7C+Intelig%C3%AAncia+Artificial;Fundador+da+NAV;Bicampe%C3%A3o+da+Maratona+SBC+no+campus;Estudante+na+UFC+Crate%C3%BAs" alt="Apresentação animada" />
 
 ```text
  /\_/\
