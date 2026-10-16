@@ -6,7 +6,7 @@
 
 ```text
  /\_/\
-( o.o )   miau, bem-vindo ao meu perfil
+( o.o )   miau, nada haver escroto
  > ^ <
 ```
 
