@@ -27,7 +27,8 @@ Os bastidores e exemplos práticos ficam no Instagram da NAV: [@navhubce](https:
 
 ## Conquistas
 
-- **Maratona de Programação SBC, etapa regional 2025:** 1º lugar no campus da UFC Crateús com o time Ai Dento. Em 2026 a meta é a etapa nacional.
+- **Maratona de Programação SBC 2026:** 1º lugar no campus da UFC Crateús, pelo segundo ano seguido.
+- **Maratona de Programação SBC, etapa regional 2025:** 1º lugar no campus da UFC Crateús com o time Ai Dento.
 
 ## O que estou estudando agora
 
